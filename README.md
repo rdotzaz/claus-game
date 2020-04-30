@@ -8,6 +8,6 @@ Compile all Java files:
 `javac *.java`
 
 Run:
-`java Main*
+`java Main*`
 
 **Enjoy**
