@@ -4,10 +4,12 @@
 
 ## How to run
 
-Compile all Java files:
-`javac *.java`
+In terminal:
 
-Run:
-`java Main*`
+ - `make all` to compile all files using `javac`
 
-**Enjoy**
+ - `make run` to run
+
+ - `make fast-run` to compile and run
+
+##**Enjoy**
